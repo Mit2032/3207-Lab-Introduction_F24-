@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-#include "random.h"
+#include "randchar.h"
 
 char randchar(void){
     
